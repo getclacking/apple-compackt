@@ -1,9 +1,7 @@
 # apple-compackt
 A compact keyboard built from an Apple Extended Keyboard II
 
-![](keyboard-thumb.png)
-
-This is an AEK II modification project, but it'll work with and ALPS or Cherry MX 
+This is an AEK II modification project, but it'll work with and ALPS or Cherry MX
 (and compatible switches).  It's 103 keys but without gaps.
 
 ![](keyboard-layout.png)
@@ -16,4 +14,3 @@ For Cherry / Costar stabilizers, there'll be an alternative plate layout.
 ### What's next
 
 Plate layouts, frame and base plate.
-
