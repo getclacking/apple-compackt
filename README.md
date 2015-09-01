@@ -14,3 +14,6 @@ For Cherry / Costar stabilizers, there'll be an alternative plate layout.
 ### What's next
 
 Plate layouts, frame and base plate.
+
+http://www.keyboard-layout-editor.com/#/gists/3fb4ad30fa3d29fc6964
+
